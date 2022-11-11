@@ -1,0 +1,12 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.full {
+  background-image: url("https://imgs.search.brave.com/w25sCZAJpcXOXWR81RviOPSlriDegyDgtZHKVpGLYv8/rs:fit:1200:700:1/g:ce/aHR0cDovL2kwLndw/LmNvbS9ub21hZGlj/am91cm5leXMuY29t/LmF1L3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDE4LzA1L3VsYWFu/YmFhdGFyLmpwZw");
+  background-position: center;
+  height: 700px;
+  min-width: 100%;
+  background-repeat: no-repeat;
+  background-size: 1500px;
+}

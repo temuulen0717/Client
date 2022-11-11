@@ -1,0 +1,35 @@
+.Slider {
+  padding: 10px;
+  padding-left: 40px;
+  padding-top: 0px;
+  text-align: center;
+}
+.overlay {
+  text-align: center;
+}
+
+.Text {
+  padding: 10px;
+  padding-left: 40px;
+  padding-top: 0px;
+}
+img {
+  padding: 5px;
+  height: 250px;
+  width: 400px;
+
+  display: block;
+  margin: auto;
+  border-radius: 10px;
+}
+.slick-prev {
+  z-index: 100;
+  left: 20px;
+}
+.slick-arrow {
+  color: #000000;
+}
+.slick-next {
+  z-index: 100;
+  right: 20px !important;
+}
